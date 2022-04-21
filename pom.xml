@@ -102,9 +102,9 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk</artifactId>
-			<version>1.12.81</version>
+			<version>LATEST</version>
 		</dependency>
-
+		
 
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		<dependency>
